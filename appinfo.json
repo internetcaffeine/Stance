@@ -1,0 +1,39 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "internetcaffeine",
+    "longName": "STANCE",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/STK_2.png",
+                "name": "STK_2",
+                "type": "png"
+            },
+            {
+                "file": "images/STK_1.png",
+                "name": "STK_1",
+                "type": "png"
+            },
+            {
+                "file": "images/STK_0.png",
+                "name": "STK_0",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Stance",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "596c35db-6436-4b90-8bd8-873e41dd8f68",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
